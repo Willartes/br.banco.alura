@@ -82,14 +82,14 @@ Classe responsável por:
 
 SISTEMA SIMPLES DE BANCO
 
-1- Cadastrar Cliente
-2- Criar Conta
-3- Listar Clientes e Contas
-4- Sacar
-5- Depositar
-6- Transferir
-7- Saldo
-0- Sair
+- 1- Cadastrar Cliente
+- 2- Criar Conta
+- 3- Listar Clientes e Contas
+- 4- Sacar
+- 5- Depositar
+- 6- Transferir
+- 7- Saldo
+- 0- Sair
 ---
 
 ## 📚 Objetivo Pedagógico
